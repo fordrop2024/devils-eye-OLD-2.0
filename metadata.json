@@ -1,0 +1,6 @@
+{
+  "name": "The Devil's Eye 2.0",
+  "description": "AI Video & Movie Storytelling Studio with neural analysis, story engine, script studio, voice lab, and pro timeline editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
